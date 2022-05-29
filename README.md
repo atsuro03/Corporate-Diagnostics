@@ -1,2 +1,1 @@
 # Corporate-Diagnostics
-Corporate-Diagnostics
